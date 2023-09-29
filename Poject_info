@@ -1,3 +1,21 @@
 All the info required for DevHeat beta for team SMASHERS:
 
+Objective :
+We provide a platform for developers to find teammate(s) according to required skill sets.
+
+Key Feature : 
+Display all the ongoing hackathons on the platform and allow developers to create a team for a particular hackathon.
+
+Allow developers to create a team on the basis of a particular skill set by adding tags under every developer profile.
+
+
+REQUIREMENT:
+WEBSITE FOR THE ABOVE OBJECTIVE
+1.FRONTEND(UI/UX)
+2.BACKEND(DATA STORAGE AND FRTECHING)
+3.SECURITY AND MANAGEMENT
+4.REGESTRATION/SEARCHING WITH SKILL TAGS
+5.INFO REGARDING ALL HACKATHONNS
+6.MATCHIMNG ALGORITH FOR CREATING TEAM
+
 
