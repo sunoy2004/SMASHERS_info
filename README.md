@@ -7,7 +7,7 @@
 </h3>
 <h3 align="center">
         <samp><" WE PRESENT YOU" ></samp><br><br>
-        <a href="https://imgur.com/XkL6icM"><img src="https://i.imgur.com/XkL6icM.jpg" title="source: imgur.com" /></a>       
+        <a href="https://imgur.com/XkL6icM"><img src="https://i.imgur.com/XkL6icM.jpg" height=100% width=100% title="source: imgur.com" /></a>       
 
 </h3>
 <p align="center"> 
@@ -18,6 +18,11 @@
   </samp>
 </p>
 <br/>
+
+# OVERVIEW
+<p><h3>This weboage is designed to store and search the data or students or professionals for searching their teammates in various hackthons across world wide.
+For this to work you need to first clone the git repository of this web page and then put/ paste every folder content in one.<br>
+To load the images and the files in one folder helps the content to load on webpage.</h3></p>
 
 ## TECHNOLOGIES USED 
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange">
@@ -49,14 +54,15 @@ We provide you with the best developers across the globe .
 5. Data is fetched from our database and provided to the user , which contains the data of the best developers across the globe with the queried skill.
 6. The user can then send a join request to the team he/she created for the hackthon.</p>
 
-# PREWIEV OF OUR WEBSITE (UI/UX) :
-To get preview of our website visit the following link:<br>
+# PREVIEW OF OUR WEBSITE (UI/UX)
+To get preview of our website visit the following FIGMA link:<br>
 https://www.figma.com/file/IXMLWl6Aspfjwb8yQxRC9Y/DevHeat_SMASHERS?type=design&node-id=2%3A2&mode=design&t=CSl6op1RnzbLUhJm-1
 
-# OUR COLLABORATORS :
+# OUR COLLABORATORS
 
-<a href="https://github.com/sunoy2004"><img src="https://i.imgur.com/e2O3xSu.jpg"></a><h3>sunoy2004</h3>
-
+<a href="https://github.com/sunoy2004"><img src="https://i.imgur.com/ATQ5h4F.jpg" height="80vw" width="60vw"></a><h3>Sunoy Roy</h3><br>
+<a href="https://imgur.com/ZePVjDA"><img src="https://i.imgur.com/ZePVjDA.jpg" height="80vw" width="60vw" title="source: imgur.com" /></a><h3>Anisha Sodani</h3><br>
+<a href="https://imgur.com/Z3tTSLQ"><img src="https://i.imgur.com/Z3tTSLQ.jpg" height="80vw" width="60" title="source: imgur.com" /></a><h3>Mayank Chouhan</h3><br>
 
 
 
